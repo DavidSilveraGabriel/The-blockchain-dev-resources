@@ -16,7 +16,7 @@ All things related to the blockchain world: processes, best practices, setup gui
 
 [Solana](https://solana.com/)
 
-C[ryptozombies](https://cryptozombies.io/)
+[Cryptozombies](https://cryptozombies.io/)
 
 [https://www.web3.university/](https://www.web3.university/)
 
