@@ -9,17 +9,17 @@ All things related to the blockchain world: processes, best practices, setup gui
 [Ethereum](https://ethereum.org/en/) : Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
 
 
-
 [Metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=es) : A crypto wallet & gateway to blockchain apps
 
 
-[ether gas](https://ethgasstation.info/)
+[ether gas](https://ethgasstation.info/) : ETH Gas Station (EGS) is the industry's #1 Ethereum gas price estimator. EGS provides unprecedented services and uptime, currently relied on by top projects and companies like MetaMask, Argent Wallet, Quantstamp, and many many more.
 
-**[Blockchain Development Resources](https://github.com/PatrickAlphaC/Blockchain-Development-Resources)**
 
-[Solana](https://solana.com/)
+**[Blockchain Development Resources](https://github.com/PatrickAlphaC/Blockchain-Development-Resources)** : The contents of this repository will help you launch a career in Blockchain development. It contains useful website, courses, tutorials, articles and books for blockchain enthusiasts, enginners, crypto traders, developers, designers and stakeholders in the Crypto space.
 
-[Cryptozombies](https://cryptozombies.io/)
+[Solana](https://solana.com/) : Solana is a decentralized blockchain built to enable scalable, user-friendly apps for the world.
+
+[Cryptozombies](https://cryptozombies.io/) : CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to make smart contracts in Solidity by making your own crypto-collectibles game.
 
 [https://www.web3.university/](https://www.web3.university/)
 
