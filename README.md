@@ -38,3 +38,18 @@ All things related to the blockchain world: processes, best practices, setup gui
 [Polygon](https://www.polygon.technology/)
 
 [Roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/)
+
+
+### GitHub repositorios para web3 devs
+
+[DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+
+[blockchain](https://github.com/dvf/blockchain)
+
+[Blockchain in 2 month](https://github.com/llSourcell/Learn_Blockchain_in_2_months)
+
+[Course of solidity with python](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+
+[Blockchain dev path](https://github.com/protofire/blockchain-learning-path)
+
+[List of resources](https://github.com/yjjnls/awesome-blockchain)
