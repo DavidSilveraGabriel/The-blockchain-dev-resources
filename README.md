@@ -21,9 +21,10 @@ All things related to the blockchain world: processes, best practices, setup gui
 
 [Cryptozombies](https://cryptozombies.io/) : CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to make smart contracts in Solidity by making your own crypto-collectibles game.
 
-[https://www.web3.university/](https://www.web3.university/)
+[https://www.web3.university/](https://www.web3.university/) : Covering the fundamentals of web3 development: from writing Solidity, to minting NFTs, to building full-stack dApps. Bringing you resources from the best in blockchain.
 
-[NFTschool](https://nftschool.dev/)
+
+[NFTschool](https://nftschool.dev/) : a collective of web developers and technology enthusiasts here to figure out what's going on with non-fungible tokens, or NFTs
 
 [BuildSpace](https://buildspace.so/)
 
