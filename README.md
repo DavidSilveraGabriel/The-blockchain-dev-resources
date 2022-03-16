@@ -6,9 +6,12 @@ All things related to the blockchain world: processes, best practices, setup gui
 
 ## Links
 
-[Ethereum](https://ethereum.org/en/)
+[Ethereum](https://ethereum.org/en/) : Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
 
-[Metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=es)
+
+
+[Metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=es) : A crypto wallet & gateway to blockchain apps
+
 
 [ether gas](https://ethgasstation.info/)
 
