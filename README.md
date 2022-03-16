@@ -26,19 +26,20 @@ All things related to the blockchain world: processes, best practices, setup gui
 
 [NFTschool](https://nftschool.dev/) : a collective of web developers and technology enthusiasts here to figure out what's going on with non-fungible tokens, or NFTs
 
-[BuildSpace](https://buildspace.so/)
+[BuildSpace](https://buildspace.so/) : The world's largest on-chain network.
 
-[UseWeb3](https://www.useweb3.xyz/)
+[UseWeb3](https://www.useweb3.xyz/) : a platform for developers to explore and learn about Web3. Whether youre a new dev getting your hands dirty for the first time, or a seasoned developer making the transition into the Web3 space.
 
-[SolanaCookBook](https://solanacookbook.com/#contributing)
+[SolanaCookBook](https://solanacookbook.com/#contributing) : The Cookbook is designed in a way that makes it easy for new Solana developers to contribute. Even if you don't know how to do something, contributing to the cookbook is a great way to learn!
 
-[OpenQuest](https://openquest.xyz/)
+[OpenQuest](https://openquest.xyz/) : Learn to code in Web3. Build in less than 60s.
 
-[Ethernaut](https://ethernaut.openzeppelin.com/)
+[Ethernaut](https://ethernaut.openzeppelin.com/) : The Ethernaut is a Web3/Solidity based wargame inspired on overthewire.org, played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
+The game is 100% open source and all levels are contributions made by other players. Do you have an interesting idea? PRs are welcome at github.com/OpenZeppelin/ethernaut.
 
-[Polygon](https://www.polygon.technology/)
+[Polygon](https://www.polygon.technology/) : Polygon believes in Web3 for all. Polygon is a decentralised Ethereum scaling platform that enables developers to build scalable user-friendly dApps with low transaction fees without ever sacrificing on security.
 
-[Roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/)
+[Roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) : Complete Web3.0 And Solidity Development Roadmap 2022
 
 
 ### GitHub repositorios para web3 devs
