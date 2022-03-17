@@ -46,12 +46,12 @@ The game is 100% open source and all levels are contributions made by other play
 
 [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) : DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
 
-[blockchain](https://github.com/dvf/blockchain)
+[blockchain](https://github.com/dvf/blockchain) : A simple Blockchain in Python
 
-[Blockchain in 2 month](https://github.com/llSourcell/Learn_Blockchain_in_2_months)
+[Blockchain in 2 month](https://github.com/llSourcell/Learn_Blockchain_in_2_months) : This is the code for "Learn Blockchain in 2 Months" by Siraj Raval on Youtube
 
-[Course of solidity with python](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+[Course of solidity with python](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) : Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
 
-[Blockchain dev path](https://github.com/protofire/blockchain-learning-path)
+[Blockchain dev path](https://github.com/protofire/blockchain-learning-path) : A suggested learning path for blockchain development
 
 [List of resources](https://github.com/yjjnls/awesome-blockchain)
