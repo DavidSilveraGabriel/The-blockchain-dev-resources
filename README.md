@@ -44,7 +44,7 @@ The game is 100% open source and all levels are contributions made by other play
 
 ### GitHub repositorios para web3 devs
 
-[DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+[DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) : DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
 
 [blockchain](https://github.com/dvf/blockchain)
 
