@@ -54,4 +54,13 @@ The game is 100% open source and all levels are contributions made by other play
 
 [Blockchain dev path](https://github.com/protofire/blockchain-learning-path) : A suggested learning path for blockchain development
 
-[List of resources](https://github.com/yjjnls/awesome-blockchain)
+[List of resources](https://github.com/yjjnls/awesome-blockchain) : Curated list of resources for the development and applications of blockchain.
+
+
+### Blockchain dev channels
+
+[Eat the block](https://www.youtube.com/c/EatTheBlocks)
+
+[Dapp University](https://www.youtube.com/c/DappUniversity)
+
+[IvanonTech](https://www.youtube.com/c/IvanonTech)
