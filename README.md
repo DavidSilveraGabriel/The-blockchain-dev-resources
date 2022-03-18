@@ -69,4 +69,5 @@ The game is 100% open source and all levels are contributions made by other play
 [Dapp University](https://www.youtube.com/c/DappUniversity) : Learn to build decentralized apps on the Ethereum Blockchain.
 
 
-[IvanonTech](https://www.youtube.com/c/IvanonTech)
+[IvanonTech](https://www.youtube.com/c/IvanonTech) : This channel is all about cryptocurrencies and the blockchain technology
+I'm also an international blockchain speaker and educator 
