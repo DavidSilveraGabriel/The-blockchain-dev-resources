@@ -59,7 +59,12 @@ The game is 100% open source and all levels are contributions made by other play
 
 ### Blockchain dev channels
 
-[Eat the block](https://www.youtube.com/c/EatTheBlocks)
+[Eat the block](https://www.youtube.com/c/EatTheBlocks): Youtube channel EatTheBlocks, you will find a ton of high-quality tutorials on Web3 / Blockchain development. It covers:
+- Ethereum & EVM Blockchains
+- Solidity smart contracts
+- Decentralized Applications (Dapps)
+- DeFi development
+- NFT development 
 
 [Dapp University](https://www.youtube.com/c/DappUniversity)
 
