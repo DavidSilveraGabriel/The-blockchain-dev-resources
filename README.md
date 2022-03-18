@@ -66,6 +66,7 @@ The game is 100% open source and all levels are contributions made by other play
 - DeFi development
 - NFT development 
 
-[Dapp University](https://www.youtube.com/c/DappUniversity)
+[Dapp University](https://www.youtube.com/c/DappUniversity) : Learn to build decentralized apps on the Ethereum Blockchain.
+
 
 [IvanonTech](https://www.youtube.com/c/IvanonTech)
