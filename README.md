@@ -1,5 +1,5 @@
 # The-blockchain-dev-roadmap
-A brief summary of resources and tools that will help me in my road to be a blockchain dev
+A brief summary of resources and tools that will help me (and maybe to you) in my road to be a blockchain dev
 # Blockchain developer
 
 All things related to the blockchain world: processes, best practices, setup guides, and more
