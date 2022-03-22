@@ -79,7 +79,7 @@ I'm also an international blockchain speaker and educator
 
 [Learnweb3](https://www.learnweb3.io/tracks/freshman): organization that creates fully-fledged web3 developers and brings them into the ecosystem.
 
-[https://www.web3.university/](https://www.web3.university/)
+[web3 university](https://www.web3.university/) : Covering the fundamentals of web3 development: from writing Solidity, to minting NFTs, to building full-stack dApps. Bringing you resources from the best in blockchain.
 
 [https://moralis.io/](https://moralis.io/)
 
