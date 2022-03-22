@@ -79,10 +79,6 @@ I'm also an international blockchain speaker and educator
 
 [Learnweb3](https://www.learnweb3.io/tracks/freshman): organization that creates fully-fledged web3 developers and brings them into the ecosystem.
 
-Hay que echarle un OJO SI O SI:  [https://betterprogramming.pub/everything-you-need-to-know-about-fullstack-web3-94c0f1b18019](https://betterprogramming.pub/everything-you-need-to-know-about-fullstack-web3-94c0f1b18019)
-
-[https://eda.hashnode.dev/building-with-polygon](https://eda.hashnode.dev/building-with-polygon)
-
 [https://www.web3.university/](https://www.web3.university/)
 
 [https://moralis.io/](https://moralis.io/)
