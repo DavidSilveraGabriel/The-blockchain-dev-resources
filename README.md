@@ -75,7 +75,7 @@ I'm also an international blockchain speaker and educator
 
 ### schools and tutorials
 
-[Buildspace](https://app.buildspace.so/home): 
+[Buildspace](https://app.buildspace.so/home): The world's largest on-chain network.
 
 [Learnweb3](https://www.learnweb3.io/tracks/freshman): 
 
