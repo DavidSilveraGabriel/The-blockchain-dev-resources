@@ -71,3 +71,20 @@ The game is 100% open source and all levels are contributions made by other play
 
 [IvanonTech](https://www.youtube.com/c/IvanonTech) : This channel is all about cryptocurrencies and the blockchain technology
 I'm also an international blockchain speaker and educator 
+
+
+### schools and tutorials
+
+[Buildspace](https://app.buildspace.so/home): 
+
+[Learnweb3](https://www.learnweb3.io/tracks/freshman): 
+
+Hay que echarle un OJO SI O SI:  [https://betterprogramming.pub/everything-you-need-to-know-about-fullstack-web3-94c0f1b18019](https://betterprogramming.pub/everything-you-need-to-know-about-fullstack-web3-94c0f1b18019)
+
+[https://eda.hashnode.dev/building-with-polygon](https://eda.hashnode.dev/building-with-polygon)
+
+[https://www.web3.university/](https://www.web3.university/)
+
+[https://moralis.io/](https://moralis.io/)
+
+[https://www.pointer.gg/](https://www.pointer.gg/)
