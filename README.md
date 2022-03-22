@@ -81,6 +81,6 @@ I'm also an international blockchain speaker and educator
 
 [web3 university](https://www.web3.university/) : Covering the fundamentals of web3 development: from writing Solidity, to minting NFTs, to building full-stack dApps. Bringing you resources from the best in blockchain.
 
-[https://moralis.io/](https://moralis.io/)
+[https://moralis.io/](https://moralis.io/) : The Ultimate Web3 Development Platform
 
 [https://www.pointer.gg/](https://www.pointer.gg/)
