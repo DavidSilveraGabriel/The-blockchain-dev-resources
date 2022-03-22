@@ -83,4 +83,4 @@ I'm also an international blockchain speaker and educator
 
 [https://moralis.io/](https://moralis.io/) : The Ultimate Web3 Development Platform
 
-[https://www.pointer.gg/](https://www.pointer.gg/)
+[https://www.pointer.gg/](https://www.pointer.gg/) : start learning the skills for the web3 programming economy and get paid while you learn
