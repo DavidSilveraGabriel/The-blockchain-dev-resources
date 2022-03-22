@@ -73,7 +73,7 @@ The game is 100% open source and all levels are contributions made by other play
 I'm also an international blockchain speaker and educator 
 
 
-### schools and tutorials
+### Schools and tutorials
 
 [Buildspace](https://app.buildspace.so/home): The world's largest on-chain network.
 
