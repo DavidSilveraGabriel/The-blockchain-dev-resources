@@ -88,7 +88,9 @@ I'm also an international blockchain speaker and educator
 ## Main questions
 
 → What is web3?
-
+  * Web3 is an idea for a new iteration of the World Wide Web based on blockchain technology
+  * incorporating concepts such as decentralization and token-based economy
+  
 → What is blockchain?
 
 → How blockchain works?
