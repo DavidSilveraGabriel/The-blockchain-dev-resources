@@ -106,6 +106,7 @@ I'm also an international blockchain speaker and educator
   * It is programmable, which means that developers can use it in the creation of decentralized applications
 
 → What is smart contracts?
+  * A smart contract is a computer program that facilitates, secures, enforces and executes recorded agreements between two or more parties
 
 → What is a node in Ethereum?
 
