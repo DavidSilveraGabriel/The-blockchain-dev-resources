@@ -84,3 +84,55 @@ I'm also an international blockchain speaker and educator
 [moralis](https://moralis.io/) : The Ultimate Web3 Development Platform
 
 [pointer](https://www.pointer.gg/) : start learning the skills for the web3 programming economy and get paid while you learn
+
+## Main questions
+
+→ What is web3?
+
+→ What is blockchain?
+
+→ How blockchain works?
+
+→ What is Ethereum?
+
+→ What is smart contracts?
+
+→ What is a node in Ethereum?
+
+→ How can you connect with a node?
+
+→ Can you “hide” a transaction?
+
+→ Where are transactions stored?
+
+→ Ethereum uses which consensus?
+
+→ How can you make a smart contract?
+
+→ What are dApps?
+
+→ Which programming language to used to write dApps?
+
+→ Which programming language is used to write smart contracts?
+
+→ What is a DAO?
+
+→ What is DeFi?
+
+→ What are wallets? why are they used?
+
+→ Give examples of some wallets?
+
+→ What are the types of Ethereum networks that exist?
+
+→ Mention some of the popular Blockchain-based smart contracts.
+
+→ Are there any standards for Smart Contracts?
+
+→ Why is Gas Fees taken?
+
+→ Define Remix?
+
+→ What is Ether?
+
+→ How can you obtain Ether?
