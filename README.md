@@ -98,9 +98,12 @@ I'm also an international blockchain speaker and educator
   * Blockchain is a type of DLT in which transactions are recorded with an immutable cryptographic signature called a hash.
 
 → How blockchain works?
-  * [web3 university](https://www.youtube.com/watch?v=V9Kr2SujqHw&t=632s)
+  * [dotcsv blockchain](https://www.youtube.com/watch?v=V9Kr2SujqHw&t=632s)
 
 → What is Ethereum?
+  * Ethereum is an open source platform, which is used to run smart contracts. 
+  * The platform has a high degree of decentralization, unlike other blockchains. 
+  * It is programmable, which means that developers can use it in the creation of decentralized applications
 
 → What is smart contracts?
 
