@@ -172,7 +172,8 @@ I'm also an international blockchain speaker and educator
   * This is very much like the processing fees credit cards may charge for transferring money to various accounts or for paying bills.
   
 → Define Remix?
-
+  * Remix, more commonly known as Remix IDE, is an open-source Ethereum IDE you can use to write, compile and debug Solidity code
+  
 → What is Ether?
 
 → How can you obtain Ether?
