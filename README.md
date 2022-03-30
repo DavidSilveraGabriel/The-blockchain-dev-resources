@@ -109,8 +109,11 @@ I'm also an international blockchain speaker and educator
   * A smart contract is a computer program that facilitates, secures, enforces and executes recorded agreements between two or more parties
 
 → What is a node in Ethereum?
+  * "Node" refers to a running piece of client software. 
+  * A client is an implementation of Ethereum that verifies all transactions in each block, keeping the network secure and the data accurate.
 
 → How can you connect with a node?
+  * [tutorial](https://moralis.io/how-to-connect-to-ethereum-nodes/)
 
 → Can you “hide” a transaction?
 
