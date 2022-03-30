@@ -134,12 +134,18 @@ I'm also an international blockchain speaker and educator
 → What is a DAO?
   * A Decentralized Autonomous Organization or DAO, also called a Decentralized Autonomous Enterprise or DAC
   * is an organization that is run through rules encoded in computer programs called smart contracts.
+  
 → What is DeFi?
-
+  * Decentralized finance (DeFi) is an emerging financial technology based on secure distributed ledgers similar to those used by cryptocurrencies. 
+  * The system removes the control banks and institutions have on money, financial products, and financial services.
+  
 → What are wallets? why are they used?
+  * Crypto wallets store your private keys, keeping your crypto safe and accessible. 
+  * They also allow you to **send**, **receive**, and **spend** cryptocurrencies like Bitcoin and Ethereum.
 
 → Give examples of some wallets?
-
+  * Metamask, Trust wallet
+  
 → What are the types of Ethereum networks that exist?
 
 → Mention some of the popular Blockchain-based smart contracts.
