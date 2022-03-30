@@ -147,6 +147,11 @@ I'm also an international blockchain speaker and educator
   * Metamask, Trust wallet
   
 → What are the types of Ethereum networks that exist?
+  
+  * 2.1) Ethereum Mainnet
+  * 2.2) Ethereum Classic
+  * 2.3) Ellaism
+  * 2.4) Mix Mainnet
   * 3.1) Ropsten (Ethereum Testnet)
   * 3.2) Rinkeby (Ethereum Testnet)
   * 3.3) Kovan (Ethereum Testnet)
