@@ -127,9 +127,10 @@ I'm also an international blockchain speaker and educator
   * A decentralized application is a computer application that runs on a distributed computing system.
 
 → Which programming language to used to write dApps?
-
+  * Solidity and JavaScript
+  
 → Which programming language is used to write smart contracts?
-
+  * Solidity 
 → What is a DAO?
 
 → What is DeFi?
