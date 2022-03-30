@@ -132,7 +132,8 @@ I'm also an international blockchain speaker and educator
 → Which programming language is used to write smart contracts?
   * Solidity 
 → What is a DAO?
-
+  * A Decentralized Autonomous Organization or DAO, also called a Decentralized Autonomous Enterprise or DAC
+  * is an organization that is run through rules encoded in computer programs called smart contracts.
 → What is DeFi?
 
 → What are wallets? why are they used?
