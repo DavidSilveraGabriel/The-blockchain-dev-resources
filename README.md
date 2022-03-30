@@ -152,6 +152,7 @@ I'm also an international blockchain speaker and educator
   * 2.2) Ethereum Classic
   * 2.3) Ellaism
   * 2.4) Mix Mainnet
+  ### test net
   * 3.1) Ropsten (Ethereum Testnet)
   * 3.2) Rinkeby (Ethereum Testnet)
   * 3.3) Kovan (Ethereum Testnet)
