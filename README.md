@@ -152,7 +152,8 @@ I'm also an international blockchain speaker and educator
   * 2.2) Ethereum Classic
   * 2.3) Ellaism
   * 2.4) Mix Mainnet
-  ### test net
+  
+  
   * 3.1) Ropsten (Ethereum Testnet)
   * 3.2) Rinkeby (Ethereum Testnet)
   * 3.3) Kovan (Ethereum Testnet)
@@ -167,7 +168,9 @@ I'm also an international blockchain speaker and educator
 → Are there any standards for Smart Contracts?
 
 → Why is Gas Fees taken?
-
+  * Gas fees are payments that users have to make to compensate for the computation energy required to process transactions on the Ethereum blockchain. 
+  * This is very much like the processing fees credit cards may charge for transferring money to various accounts or for paying bills.
+  
 → Define Remix?
 
 → What is Ether?
