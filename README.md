@@ -124,6 +124,7 @@ I'm also an international blockchain speaker and educator
 → How can you make a smart contract?
 
 → What are dApps?
+  * A decentralized application is a computer application that runs on a distributed computing system.
 
 → Which programming language to used to write dApps?
 
