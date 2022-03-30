@@ -147,6 +147,14 @@ I'm also an international blockchain speaker and educator
   * Metamask, Trust wallet
   
 → What are the types of Ethereum networks that exist?
+  * 3.1) Ropsten (Ethereum Testnet)
+  * 3.2) Rinkeby (Ethereum Testnet)
+  * 3.3) Kovan (Ethereum Testnet)
+  * 3.4) Goerli (Ethereum Testnet)
+  * 3.5) Kotti (Ethereum Classic Testnet)
+  * 3.6) Mordor (Ethereum Classic Testnet)
+  * 3.7) Laika (Trustlines Testnet)
+  * 3.8) Sokol (POA Testnet)
 
 → Mention some of the popular Blockchain-based smart contracts.
 
