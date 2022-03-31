@@ -183,5 +183,7 @@ I'm also an international blockchain speaker and educator
   * Remix, more commonly known as Remix IDE, is an open-source Ethereum IDE you can use to write, compile and debug Solidity code
   
 → What is Ether?
+  * Ether is the transactional token that facilitates operations on the Ethereum network. All of the programs and services linked with the Ethereum network
 
 → How can you obtain Ether?
+  * Trading Ethereum's native token, Ether (ETH), can be done online via a number of active exchanges. You can now also buy ETH through mainstream brokerage platforms like Robinhood or Paypal, too you can be a miner and participate on the proof of work in order to get the reward of ETH 
