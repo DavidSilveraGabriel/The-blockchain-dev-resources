@@ -173,7 +173,8 @@ I'm also an international blockchain speaker and educator
   * NEM : refers to a peer-to-peer cryptocurrency and blockchain platform that was launched on 31 March 2015. It has now become the first choice of many developers as it is written using java, which is one of the widely used programming languages in the world. It is easily accessible, and it is not mandatory for developers to learn a platform-specific programming language like Solidity. As per experts, the recently launched Catapult or Mijin v.2 update by NEM renders it as the safest smart contract platform across the globe. It is highly scalable. While Ethereum can process 15 transactions per second,NEM manages to process a 100. These features make NEM the best choice for developers. 
 
 → Are there any standards for Smart Contracts?
-
+  * Standardising smart contracts: Automatically inferring ERC standards. Abstract: Ethereum smart contracts have become common enough to warrant the need for standards to ensure ease of use. The most well known standard was created for the emerging token ecosystem and the exchanges serving it: the ERC20 standard.
+  
 → Why is Gas Fees taken?
   * Gas fees are payments that users have to make to compensate for the computation energy required to process transactions on the Ethereum blockchain. 
   * This is very much like the processing fees credit cards may charge for transferring money to various accounts or for paying bills.
