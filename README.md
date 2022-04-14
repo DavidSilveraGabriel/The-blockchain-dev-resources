@@ -116,10 +116,14 @@ I'm also an international blockchain speaker and educator
   * [tutorial](https://moralis.io/how-to-connect-to-ethereum-nodes/)
 
 → Can you “hide” a transaction?
-
+  * Depending on the wallet interface you are using (MyCrypto, Metamask, etc.), you may be able to hide transactions, but the transaction will always exist on the blockchain
+  
 → Where are transactions stored?
+  * On the blockchain
 
 → Ethereum uses which consensus?
+  * Ethereum, like Bitcoin, currently uses a consensus protocol called Proof-of-work (PoW). This allows the nodes of the Ethereum network to agree on the state of all information recorded on the Ethereum blockchain and prevents certain kinds of economic attacks.
+  * Over the next year, proof-of-work will be phased out in favour of Proof-of-stake (PoS). The transition to proof-of-stake will also phase out mining from Ethereum. More on The Merge.
 
 → How can you make a smart contract?
  * Step 1: Create a wallet at meta-mask
