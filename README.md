@@ -122,6 +122,14 @@ I'm also an international blockchain speaker and educator
 → Ethereum uses which consensus?
 
 → How can you make a smart contract?
+ * Step 1: Create a wallet at meta-mask
+ * Step 2: Select any one test network
+ * Step 3: Add some dummy Ethers to your wallet
+ * Step 4: Use editor remix to write the smart contract in Solidity
+ * Step 5: Create a .sol extension file
+ * Step 6: Use a sample smart contract code to create ECR20 tokens
+ * Step 7: Deploy your contract
+
 
 → What are dApps?
   * A decentralized application is a computer application that runs on a distributed computing system.
